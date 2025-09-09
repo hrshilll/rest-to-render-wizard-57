@@ -88,7 +88,7 @@ export default function Donations() {
                 <Heart className="h-6 w-6 text-success" />
               </div>
               <div>
-                <p className="text-2xl font-bold text-foreground">		₹‎148,500</p>
+                <p className="text-2xl font-bold text-foreground">₹148,500</p>
                 <p className="text-sm text-muted-foreground">Total Raised This Year</p>
               </div>
             </div>
