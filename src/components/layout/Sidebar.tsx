@@ -68,7 +68,9 @@ export function AppSidebar() {
             {!isCollapsed && (
               <div>
                 <h2 className="font-bold text-sidebar-foreground">Knot</h2>
-                <p className="text-xs text-sidebar-foreground/60">Stronger ties, Smarter Opportunities</p>
+                <p className="text-xs text-sidebar-foreground/60">
+                  Stronger ties,<br />Smarter Opportunities
+                </p>
               </div>
             )}
           </div>
