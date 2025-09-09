@@ -28,7 +28,7 @@ import {
 
 const navigationItems = [
   { title: "Dashboard", url: "/dashboard", icon: Home },
-  { title: "Find Mentors", url: "/mentors", icon: Search },
+  { title: "Find Peoples", url: "/mentors", icon: Search },
   { title: "Success Stories", url: "/stories", icon: BookOpen },
   { title: "Job Board", url: "/jobs", icon: Briefcase },
   { title: "Events", url: "/events", icon: Calendar },
@@ -67,7 +67,7 @@ export function AppSidebar() {
             </div>
             {!isCollapsed && (
               <div>
-                <h2 className="font-bold text-sidebar-foreground">AlumniNet</h2>
+                <h2 className="font-bold text-sidebar-foreground">Knot</h2>
                 <p className="text-xs text-sidebar-foreground/60">Stay Connected</p>
               </div>
             )}

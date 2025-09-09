@@ -46,7 +46,7 @@ export default function Mentors() {
     <div className="p-6 space-y-6 max-w-7xl mx-auto">
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-3xl font-bold text-foreground">Find Mentors</h1>
+          <h1 className="text-3xl font-bold text-foreground">Find Peoples</h1>
           <p className="text-muted-foreground mt-1">
             Connect with experienced alumni who can guide your career journey
           </p>
@@ -56,7 +56,7 @@ export default function Mentors() {
       {/* Search Section */}
       <Card className="shadow-card">
         <CardHeader>
-          <CardTitle>Search Mentors</CardTitle>
+          <CardTitle>Search Peoples</CardTitle>
           <CardDescription>Find mentors based on skills, company, or location</CardDescription>
         </CardHeader>
         <CardContent>

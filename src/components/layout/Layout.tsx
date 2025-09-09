@@ -29,7 +29,7 @@ export function Layout({ children }: LayoutProps) {
               <SidebarTrigger className="text-muted-foreground hover:text-foreground" />
               <div className="hidden sm:block">
                 <h1 className="text-lg font-semibold text-foreground">
-                  Welcome to AlumniNet!
+                  Welcome to Knot!
                 </h1>
                 <p className="text-sm text-muted-foreground">
                   Connect with your alumni community
